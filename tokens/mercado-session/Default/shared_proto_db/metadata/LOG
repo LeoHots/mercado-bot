@@ -1,0 +1,4 @@
+2025/04/16-14:56:23.968 322c Creating DB C:\Users\cubod.LAPTOP-02TD8TAJ\Documents\mercado-bot\tokens\mercado-session\Default\shared_proto_db\metadata since it was missing.
+2025/04/16-14:56:24.606 322c Reusing MANIFEST C:\Users\cubod.LAPTOP-02TD8TAJ\Documents\mercado-bot\tokens\mercado-session\Default\shared_proto_db\metadata/MANIFEST-000001
+2025/04/16-14:56:24.607 322c Recovering log #3
+2025/04/16-14:56:24.608 322c Reusing old log C:\Users\cubod.LAPTOP-02TD8TAJ\Documents\mercado-bot\tokens\mercado-session\Default\shared_proto_db\metadata/000003.log 

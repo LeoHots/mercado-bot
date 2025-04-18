@@ -1,0 +1,4 @@
+2025/04/16-14:56:23.573 30b8 Creating DB C:\Users\cubod.LAPTOP-02TD8TAJ\Documents\mercado-bot\tokens\mercado-session\Default\Sync Data\LevelDB since it was missing.
+2025/04/16-14:56:24.288 30b8 Reusing MANIFEST C:\Users\cubod.LAPTOP-02TD8TAJ\Documents\mercado-bot\tokens\mercado-session\Default\Sync Data\LevelDB/MANIFEST-000001
+2025/04/16-14:56:24.289 30b8 Recovering log #3
+2025/04/16-14:56:24.289 30b8 Reusing old log C:\Users\cubod.LAPTOP-02TD8TAJ\Documents\mercado-bot\tokens\mercado-session\Default\Sync Data\LevelDB/000003.log 
